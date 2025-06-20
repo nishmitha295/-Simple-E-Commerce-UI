@@ -3,7 +3,7 @@
 
 ## **Project Overview**
 
-**MyStore** is a simple, responsive e-commerce web application built using **React.js**, **Bootstrap**, and **JavaScript**. The application allows users to browse products, view detailed information about each product, and add/remove products from the shopping cart. The cart functionality is handled using React's state management, making the app interactive without requiring a backend.
+**MyStore** is a simple, responsive e-commerce web application built using **React.js**, **Bootstrap**,Material-UI and **JavaScript**. The application allows users to browse products, view detailed information about each product, and add/remove products from the shopping cart. The cart functionality is handled using React's state management, making the app interactive without requiring a backend.
 
 ### **Key Features**
 - **Product Grid**: Displays a list of products in a grid layout using Bootstrap cards.
